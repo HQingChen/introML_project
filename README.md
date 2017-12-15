@@ -15,7 +15,7 @@ At the second step, we need to preprocessing the data. Because both the training
 Now we are able to set models. More details are in 'House Sale prediction Regression Model.ipynb'.
 Final result:
 
-|Model                                           |Mean Square Error|
+|**Model**                                       |**Mean Square Error**|
 |------------------------------------------------|-----------------|
 |Linear Multi-Regression with no regularization  |                 |
 |Linear Multi-Regression with Ridge L2-regression|                 |
