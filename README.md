@@ -1,5 +1,6 @@
 # introML_project
 Our Machine Learning project is to use Linear Regression/Ridge/Lasso to predict House Sale.
+
 ---
 ## First step
 Firstly we download the data from www.kaggle.com in which it provides lots of different kinds of dataset. 
