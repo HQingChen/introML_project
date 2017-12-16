@@ -1,5 +1,5 @@
 # introML_project
-Our Machine Learning project is to use Linear Regression/Ridge/Lasso to predict House Sale.
+Our Machine Learning project is to use Linear Regression with no regularization and two kinds linear regression with regularization(Ridge and Lasso) to predict House Sale.
 
 ---
 ## First step
