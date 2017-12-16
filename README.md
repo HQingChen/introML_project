@@ -17,6 +17,6 @@ Final result:
 
 |**Model**                                       |**Mean Square Error**|
 |------------------------------------------------|-----------------|
-|Linear Multi-Regression with no regularization  |                 |
-|Linear Multi-Regression with Ridge L2-regression|                 |
-|Linear Multi-Regression with Lasso L1-regression|                 |
+|Linear Multi-Regression with no regularization  |0.1819           |
+|Linear Multi-Regression with Ridge L2-regression|0.0808           |
+|Linear Multi-Regression with Lasso L1-regression|0.097            |
